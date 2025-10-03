@@ -41,10 +41,10 @@ export default function Contact() {
             United Kingdom
           </p>
           <p className="mt-2 text-slate-700">
-            info@genesisquant.capital<br/>
-            careers@genesisquant.capital
+            info@genesisquantcapital.co.uk<br/>
+            careers@genesisquantcapital.co.uk
           </p>
-          <p className="mt-2 text-sm text-slate-500">Company No. 15600000 (placeholder)</p>
+          <p className="mt-2 text-sm text-slate-500">Company No. 16749769</p>
         </div>
         <div className="rounded-lg border border-slate-200 p-6">
           <h2 className="text-lg font-semibold">Compliance Reminder</h2>
