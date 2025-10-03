@@ -35,7 +35,7 @@ export default function Contact() {
         <div className="rounded-lg border border-slate-200 p-6">
           <h2 className="text-lg font-semibold">Details</h2>
           <p className="mt-2 text-slate-700">
-            3 Dingle Dell:<br/>
+            3 Dingle Dell<br/>
             2 Thruxton Road<br/>
             Crowthorne, RG45 6TH<br/>
             United Kingdom
